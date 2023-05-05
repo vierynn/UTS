@@ -1,0 +1,47 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.card-title {
+font-weight: bold;
+}
+/* 
+footer{
+position: sticky;
+bottom:0;
+} */
+
+.btn-floating {
+position: fixed;
+right: 25px;
+overflow: hidden;
+width: 50px;
+height: 50px;
+border-radius: 100px;
+border: 0;
+z-index: 9999;
+color: white;
+transition: .2s;
+}
+
+.fab-container{
+position:fixed;
+bottom:8.5%;
+right:5%;
+cursor:pointer;
+}
+
+.mb-6 {
+margin-bottom: 3.5rem !important;
+}
+
+hr{
+position: relative;
+border: none;
+height: 1px;
+background: black;
+}
+
+navbar{
+    width:100%;
+}
